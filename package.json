@@ -1,0 +1,11 @@
+{
+  "name": "pathfinding",
+  "version": "1.0.0",
+  "description": "A star pathfinfing algorithm using js",
+  "main": "pathFinding.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Piotr Kozak",
+  "license": "ISC"
+}
